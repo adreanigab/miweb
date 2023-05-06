@@ -2,4 +2,4 @@
 # el repositorio git
 
 .env
-node_modules/
+# node_modules/             (Ejemplo de carpeta)
