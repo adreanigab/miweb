@@ -1,0 +1,5 @@
+# para agregar rutas de archivos y carpetas para ser ignorados por
+# el repositorio git
+
+.env
+node_modules/
