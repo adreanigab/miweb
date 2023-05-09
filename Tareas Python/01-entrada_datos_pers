@@ -1,0 +1,13 @@
+# Tarea 01: Crear un programa que tome desde la línea de comandos,
+# Nombre, Apellido, Edad y Dirección, que al finalizar lo imprima en la pantalla.
+
+print("""Bienvenido a mi primera tarea de programación en Python
+Por favor ingresa tus datos personales""")
+
+nombre = input("Nombre: ")
+apellido = input("Apellido: ")
+edad = input("Edad: ")
+direccion = input("Direccion: ")
+
+print(f"""Ingresaste estos datos: Nombre: {nombre}, Apellido: {apellido}, Edad: {edad} años,
+Direccion: {direccion}""")
